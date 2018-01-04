@@ -1,7 +1,3 @@
-[Unit]
-Requires=wokd.service
-After=wokd.service
-
 [Service]
 Nice=0
 PrivateTmp=yes
